@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="ffd866" />
+        <option name="accentColorHex" value="ff9800" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -206,7 +206,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="MONOKAI" />
+        <option name="selectedThemeName" value="DARKER" />
       </MTThemeConfigState>
     </option>
   </component>

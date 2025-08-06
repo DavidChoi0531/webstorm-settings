@@ -25,22 +25,6 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
-  <colors>
-    <option name="FILESTATUS_ADDED" value="49D0C5" />
-    <option name="FILESTATUS_DELETED" value="DE3D3B" />
-    <option name="FILESTATUS_HIJACKED" value="2AA298" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="93A1A1" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="C96765" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="C96765" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="C96765" />
-    <option name="FILESTATUS_MERGED" value="E0AF02" />
-    <option name="FILESTATUS_MODIFIED" value="6FBEF6" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57B6C2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57B6C2" />
-    <option name="FILESTATUS_SUPPRESSED" value="403F53" />
-    <option name="FILESTATUS_SWITCHED" value="2AA298" />
-    <option name="FILESTATUS_UNKNOWN" value="4876D6" />
-  </colors>
   <attributes>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>

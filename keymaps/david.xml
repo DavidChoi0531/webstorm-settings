@@ -1,4 +1,4 @@
-<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+<keymap version="1" name="david" parent="VSCode OSX">
   <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
@@ -10,6 +10,9 @@
   <action id="ActivatePullRequestsToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
   <action id="CopyAbsolutePath" />
   <action id="CopyPathFromRepositoryRootProvider">
     <keyboard-shortcut first-keystroke="shift meta c" />
@@ -17,8 +20,25 @@
   <action id="CopyPathWithLineNumber">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+  </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="PreviousEditorTab" />
+  <action id="SmartSelect">
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+  </action>
+  <action id="SmartUnSelect" />
+  <action id="TableResult.SelectColumn">
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+  </action>
 </keymap>
