@@ -183,6 +183,12 @@
         </option>
       </MTFavoriteThemesConfigState>
     </option>
+    <option name="featuresState">
+      <MTFeaturesConfigState>
+        <option name="uiFont" value="Fira Code" />
+        <option name="useCustomFont" value="true" />
+      </MTFeaturesConfigState>
+    </option>
     <option name="metadata">
       <MTMetadataState>
         <option name="pristineConfig" value="false" />
