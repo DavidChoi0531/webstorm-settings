@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="6b9bfa" />
+        <option name="accentColorHex" value="ff9800" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -185,13 +185,28 @@
     </option>
     <option name="metadata">
       <MTMetadataState>
+        <option name="pristineConfig" value="false" />
         <option name="userId" value="154f3b85:1987ebc19d6:-8000" />
         <option name="version" value="10.1.0" />
       </MTMetadataState>
     </option>
+    <option name="projectTreeState">
+      <MTProjectTreeConfigState>
+        <option name="treeFont" value="Fira Code" />
+        <option name="treeFontEnabled" value="true" />
+        <option name="treeFontSize" value="11" />
+      </MTProjectTreeConfigState>
+    </option>
+    <option name="tabsState">
+      <MTTabsConfigState>
+        <option name="tabFont" value="Fira Code" />
+        <option name="tabFontEnabled" value="true" />
+        <option name="tabFontSize" value="11" />
+      </MTTabsConfigState>
+    </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
+        <option name="selectedThemeName" value="DARKER" />
       </MTThemeConfigState>
     </option>
   </component>
