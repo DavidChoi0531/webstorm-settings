@@ -1,6 +1,6 @@
 <application>
   <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 7
+  "enterKeyPressedTimes": 11
 }]]></component>
   <component name="TerminalOptionsProvider">
     <option name="myOverrideIdeShortcuts" value="false" />
